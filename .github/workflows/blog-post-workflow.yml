@@ -1,4 +1,4 @@
-https://medium.com/feed/@onurbolatogluname: Latest blog post workflow
+name: Latest blog post workflow
 on: 
     schedule:
         - cron: '0 * * * *'
