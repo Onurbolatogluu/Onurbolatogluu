@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+https://medium.com/feed/@onurbolatogluname: Latest blog post workflow
 on: 
     schedule:
         - cron: '0 * * * *'
@@ -12,7 +12,7 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://onurbolatoglu.medium.com/feed"
+                feed_list: "https://medium.com/feed/@onurbolatoglu"
                 
                 
                 
