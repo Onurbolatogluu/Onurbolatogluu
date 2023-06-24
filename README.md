@@ -13,11 +13,10 @@
 
 - 📄 Know about my experiences [linkedin.com/in/onurbolatoglu](linkedin.com/in/onurbolatoglu)
 
-### Blogs posts
+## Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-## Posts
 
 [Mginx Purge Module](https://medium.com/@onurbolatoglu/nginx-cache-purge-module-install-6d9660abe55b)
 
