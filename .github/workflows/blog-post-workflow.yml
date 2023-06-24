@@ -12,4 +12,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "medium.com/feed/@onurbolatoglu"
+                feed_list: "onurbolatoglu.medium.com/feed"
