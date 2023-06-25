@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Onurbolatogluu?tab=repositories](https://github.com/Onurbolatogluu?tab=repositories)
 
-- 📝 I regularly write articles on [note.onurbolatoglu.com](note.onurbolatoglu.com)
+- 📝 I regularly write articles on [note.onurbolatoglu.com](https://note.onurbolatoglu.com)
 
 - 💬 Ask me about **linux,docker,aws,kubernetes,zabbix,prometheus etc.**
 
 - 📫 How to reach me **bolatogluu@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/onurbolatoglu](linkedin.com/in/onurbolatoglu)
+- 📄 Know about my experiences [linkedin.com/in/onurbolatoglu](https://linkedin.com/in/onurbolatoglu)
 
 ## Posts
 
