@@ -22,14 +22,6 @@
 - [Percona Cluster Kurulumu / Ubuntu 20.04](https://onurbolatoglu.medium.com/percona-cluster-kurulumu-ubuntu-20-04-2fe46bef1cb5?source=rss-dc9fb9c10e6d------2)
 <!-- BLOG-POST-LIST:END -->
 
-[Mginx Purge Module](https://medium.com/@onurbolatoglu/nginx-cache-purge-module-install-6d9660abe55b)
-
-[Zabbix IIS Monitoring](https://medium.com/@onurbolatoglu/zabbix-6-iis-monitoring-35068041daaa)
-
-[Kubernetes Ingress](https://medium.com/@onurbolatoglu/kubernetes-ingress-for-kubeadm-2fba18e9ba45)
-
-[Docker Compose](https://medium.com/@onurbolatoglu/b%C3%B6l%C3%BCm-13-docker-compose-4735dde3c932)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onur_bolatoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onur_bolatoglu" height="30" width="40" /></a>
