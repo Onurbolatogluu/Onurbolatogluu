@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Onur Bolatoğlu</h1>
 <h3 align="center">Linux System Administrator, Cloud Solution architect.</h3>
 
+<div align="center">
+    <img src="https://geekflare.com/wp-content/uploads/2017/11/unix-login-prompt.jpg" alt="Banner" width="100%">
+</div>
+
 - 🌱 I’m currently learning **devops tools, jenkins etc.**
 
 - 👨‍💻 All of my projects are available at [github.com/Onurbolatogluu?tab=repositories](github.com/Onurbolatogluu?tab=repositories)
