@@ -30,10 +30,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/onur_bolatoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onur_bolatoglu" height="100" width="100" /></a>
-<a href="https://linkedin.com/in/onurbolatoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onurbolatoglu" height="100" width="100" /></a>
-<a href="https://medium.com/@onurbolatoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@onurbolatoglu" height="100" width="100" /></a>
-<a href="https://onurbolatoglu.medium.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="onurbolatoglu.medium.com/feed" height="100" width="100" /></a>
+<a href="https://twitter.com/onur_bolatoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onur_bolatoglu" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/onurbolatoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onurbolatoglu" height="70" width="70" /></a>
+<a href="https://medium.com/@onurbolatoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@onurbolatoglu" height="70" width="70" /></a>
+<a href="https://onurbolatoglu.medium.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="onurbolatoglu.medium.com/feed" height="70" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
