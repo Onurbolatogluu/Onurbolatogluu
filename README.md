@@ -16,11 +16,10 @@
 ## Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rate Limiting in REST APIs &lpar;Using SpringBoot and Redis&rpar;](https://lakshyajit165.medium.com/rate-limiting-in-rest-apis-using-springboot-and-redis-135cd5cde754?source=rss-792ccd21180e------2)
-- [API Testing in Node.js — using Chai, Mocha and Github Actions](https://lakshyajit165.medium.com/api-testing-in-node-js-using-chai-mocha-and-github-actions-9dde037d735b?source=rss-792ccd21180e------2)
-- [AWS Cognito — Auth setup has never been more simple!](https://medium.com/swlh/aws-cognito-auth-setup-has-never-been-more-simple-f53fb170eeac?source=rss-792ccd21180e------2)
-- [Use Nginx as a Reverse Proxy for Containerized Node.js Microservices](https://javascript.plainenglish.io/using-nginx-as-a-reverse-proxy-for-containerized-node-js-microservices-e7c4800f05a1?source=rss-792ccd21180e------2)
-- [Microservice Architecture with Spring Boot](https://lakshyajit165.medium.com/microservice-architecture-with-spring-boot-732d58b1c695?source=rss-792ccd21180e------2)
+- [Nginx Cache Purge Module install](https://onurbolatoglu.medium.com/nginx-cache-purge-module-install-6d9660abe55b?source=rss-dc9fb9c10e6d------2)
+- [Zabbix 6:IIS Monitoring:](https://onurbolatoglu.medium.com/zabbix-6-iis-monitoring-35068041daaa?source=rss-dc9fb9c10e6d------2)
+- [ArgoCD kurulumu ve kullanım örneği](https://onurbolatoglu.medium.com/argocd-kurulumu-ve-kullan%C4%B1m-%C3%B6rne%C4%9Fi-444200ccb290?source=rss-dc9fb9c10e6d------2)
+- [Percona Cluster Kurulumu / Ubuntu 20.04](https://onurbolatoglu.medium.com/percona-cluster-kurulumu-ubuntu-20-04-2fe46bef1cb5?source=rss-dc9fb9c10e6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 [Mginx Purge Module](https://medium.com/@onurbolatoglu/nginx-cache-purge-module-install-6d9660abe55b)
