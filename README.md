@@ -45,10 +45,10 @@
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img style="width: 70%;" src="https://github-readme-stats.vercel.app/api?username=onurbolatogluu&show_icons=true&theme=dark&locale=en" alt="onurbolatogluu" />
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=onurbolatogluu&show_icons=true&theme=dark&locale=en" alt="onurbolatogluu" />
   </div>
   <div style="flex: 1;">
-    <img style="width: 70%;" src="https://github-readme-streak-stats.herokuapp.com/?user=onurbolatogluu&theme=highcontrast" alt="onurbolatogluu" />
+    <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=onurbolatogluu&theme=highcontrast" alt="onurbolatogluu" />
   </div>
 </div>
 
