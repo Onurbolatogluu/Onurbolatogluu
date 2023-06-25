@@ -2,7 +2,7 @@
 <h3 align="center">Linux System Administrator, Cloud Solution architect.</h3>
 
 <div align="center">
-    <img src="https://geekflare.com/wp-content/uploads/2017/11/unix-login-prompt.jpg" alt="Banner" width="100%">
+    <img src="https://i.ibb.co/tqBrCQy/058c24bc-3f31-40fa-8e6c-fd6a495f0c55.jpg" alt="Banner" width="100%">
 </div>
 
 - 🌱 I’m currently learning **devops tools, jenkins etc.**
