@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **devops tools, jenkins etc.**
 
-- 👨‍💻 All of my projects are available at [github.com/Onurbolatogluu?tab=repositories](github.com/Onurbolatogluu?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Onurbolatogluu?tab=repositories](github.com/Onurbolatogluu?tab=repositories)
 
 - 📝 I regularly write articles on [note.onurbolatoglu.com](note.onurbolatoglu.com)
 
