@@ -20,6 +20,7 @@
 ## Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup SSH Passwordless Login in Linux](https://onurbolatoglu.medium.com/how-to-setup-ssh-passwordless-login-in-linux-c0316e16dd74?source=rss-dc9fb9c10e6d------2)
 - [Nginx Cache Purge Module install](https://onurbolatoglu.medium.com/nginx-cache-purge-module-install-6d9660abe55b?source=rss-dc9fb9c10e6d------2)
 - [Zabbix 6:IIS Monitoring:](https://onurbolatoglu.medium.com/zabbix-6-iis-monitoring-35068041daaa?source=rss-dc9fb9c10e6d------2)
 - [ArgoCD kurulumu ve kullanım örneği](https://onurbolatoglu.medium.com/argocd-kurulumu-ve-kullan%C4%B1m-%C3%B6rne%C4%9Fi-444200ccb290?source=rss-dc9fb9c10e6d------2)
@@ -29,7 +30,6 @@
 - [Github Actions #10 Composite Custom actions](https://onurbolatoglu.medium.com/github-actions-10-composite-custom-actions-3c7636b393cf?source=rss-dc9fb9c10e6d------2)
 - [Github Actions #9 Running tasks inside the container](https://onurbolatoglu.medium.com/github-actions-9-running-tasks-inside-the-container-446f2c6a9398?source=rss-dc9fb9c10e6d------2)
 - [Proxmox Mail Gateway Yapılandırması](https://onurbolatoglu.medium.com/proxmox-mail-gateway-yap%C4%B1land%C4%B1rmas%C4%B1-a1f8d0c104d2?source=rss-dc9fb9c10e6d------2)
-- [Github Actions #8 matrix strategy](https://onurbolatoglu.medium.com/github-actions-8-matrix-strategy-4d3c8f01f276?source=rss-dc9fb9c10e6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
