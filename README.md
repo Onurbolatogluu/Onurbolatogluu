@@ -5,13 +5,13 @@
     <img src="https://i.ibb.co/tqBrCQy/058c24bc-3f31-40fa-8e6c-fd6a495f0c55.jpg" alt="Banner" width="100%">
 </div>
 
-- 🌱 I’m currently learning **devops tools, jenkins etc.**
+- 🌱 I’m currently learning **devops tools etc.**
 
 - 👨‍💻 All of my projects are available at [github.com/Onurbolatogluu?tab=repositories](https://github.com/Onurbolatogluu?tab=repositories)
 
 - 📝 I regularly write articles on [note.onurbolatoglu.com](https://note.onurbolatoglu.com)
 
-- 💬 Ask me about **linux,docker,aws,kubernetes,zabbix,prometheus etc.**
+- 💬 Ask me about **linux,docker,aws,azure,kubernetes,zabbix,prometheus etc.**
 
 - 📫 How to reach me **bolatogluu@gmail.com**
 
