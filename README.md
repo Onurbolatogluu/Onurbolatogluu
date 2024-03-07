@@ -20,6 +20,7 @@
 ## Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Batch Demostration](https://onurbolatoglu.medium.com/azure-batch-demostration-b16c2072ab8d?source=rss-dc9fb9c10e6d------2)
 - [Azure DSC Automation](https://onurbolatoglu.medium.com/azure-dsc-automation-902f78edd3ab?source=rss-dc9fb9c10e6d------2)
 - [VirtualBox network types](https://onurbolatoglu.medium.com/virtualbox-network-type-7f001335c00c?source=rss-dc9fb9c10e6d------2)
 - [OwnCloud install For Ubuntu 20.04](https://onurbolatoglu.medium.com/owncloud-install-for-ubuntu-20-04-bb632776c1d6?source=rss-dc9fb9c10e6d------2)
@@ -29,7 +30,6 @@
 - [ArgoCD kurulumu ve kullanım örneği](https://onurbolatoglu.medium.com/argocd-kurulumu-ve-kullan%C4%B1m-%C3%B6rne%C4%9Fi-444200ccb290?source=rss-dc9fb9c10e6d------2)
 - [Percona Cluster Kurulumu / Ubuntu 20.04](https://onurbolatoglu.medium.com/percona-cluster-kurulumu-ubuntu-20-04-2fe46bef1cb5?source=rss-dc9fb9c10e6d------2)
 - [Kubernetes Monitoring : Prometheus &amp; Grafana](https://onurbolatoglu.medium.com/kubernetes-monitoring-prometheus-grafana-916d5911429f?source=rss-dc9fb9c10e6d------2)
-- [Docker Swarm Monitoring: Prometheus &amp; Grafana](https://onurbolatoglu.medium.com/docker-swarm-monitoring-prometheus-grafana-ab90d7109029?source=rss-dc9fb9c10e6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
