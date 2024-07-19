@@ -20,7 +20,7 @@
 ## Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [25 Pratik sed Komutu](https://onurbolatoglu.medium.com/25-pratik-sed-komutu-b0e230a82970?source=rss-dc9fb9c10e6d------2)
+- [Sed nedir | Pratik sed komutları](https://onurbolatoglu.medium.com/25-pratik-sed-komutu-b0e230a82970?source=rss-dc9fb9c10e6d------2)
 - [Azure Batch Demostration](https://onurbolatoglu.medium.com/azure-batch-demostration-b16c2072ab8d?source=rss-dc9fb9c10e6d------2)
 - [Azure DSC Automation](https://onurbolatoglu.medium.com/azure-dsc-automation-902f78edd3ab?source=rss-dc9fb9c10e6d------2)
 - [VirtualBox network types](https://onurbolatoglu.medium.com/virtualbox-network-type-7f001335c00c?source=rss-dc9fb9c10e6d------2)
