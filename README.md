@@ -20,6 +20,7 @@
 ## Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Actions: run-name](https://onurbolatoglu.medium.com/github-actions-run-name-5ad43f9dc022?source=rss-dc9fb9c10e6d------2)
 - [Sed nedir | Pratik sed komutları](https://onurbolatoglu.medium.com/25-pratik-sed-komutu-b0e230a82970?source=rss-dc9fb9c10e6d------2)
 - [Azure Batch Demostration](https://onurbolatoglu.medium.com/azure-batch-demostration-b16c2072ab8d?source=rss-dc9fb9c10e6d------2)
 - [Azure DSC Automation](https://onurbolatoglu.medium.com/azure-dsc-automation-902f78edd3ab?source=rss-dc9fb9c10e6d------2)
@@ -29,7 +30,6 @@
 - [Nginx Cache Purge Module install](https://onurbolatoglu.medium.com/nginx-cache-purge-module-install-6d9660abe55b?source=rss-dc9fb9c10e6d------2)
 - [Zabbix 6:IIS Monitoring:](https://onurbolatoglu.medium.com/zabbix-6-iis-monitoring-35068041daaa?source=rss-dc9fb9c10e6d------2)
 - [ArgoCD kurulumu ve kullanım örneği](https://onurbolatoglu.medium.com/argocd-kurulumu-ve-kullan%C4%B1m-%C3%B6rne%C4%9Fi-444200ccb290?source=rss-dc9fb9c10e6d------2)
-- [Percona Cluster Kurulumu / Ubuntu 20.04](https://onurbolatoglu.medium.com/percona-cluster-kurulumu-ubuntu-20-04-2fe46bef1cb5?source=rss-dc9fb9c10e6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
