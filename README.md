@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur Bolatoğlu</h1>
-<h3 align="center">Linux System Administrator, Cloud Solution architect.</h3>
+<h3 align="center">Linux System Administrator.</h3>
 
 <div align="center">
     <img src="https://i.ibb.co/tqBrCQy/058c24bc-3f31-40fa-8e6c-fd6a495f0c55.jpg" alt="Banner" width="100%">
