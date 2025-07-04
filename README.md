@@ -20,6 +20,7 @@
 ## Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [rclone nedir? rclone serve nasıl çalışır?](https://onurbolatoglu.medium.com/rclone-nedir-rclone-serve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-9b0a311f7741?source=rss-dc9fb9c10e6d------2)
 - [Ansible Global Environment Variables](https://onurbolatoglu.medium.com/ansible-global-environment-variables-9d9ecae67f9c?source=rss-dc9fb9c10e6d------2)
 - [Github Actions: run-name](https://onurbolatoglu.medium.com/github-actions-run-name-5ad43f9dc022?source=rss-dc9fb9c10e6d------2)
 - [Sed nedir | Pratik sed komutları](https://onurbolatoglu.medium.com/25-pratik-sed-komutu-b0e230a82970?source=rss-dc9fb9c10e6d------2)
@@ -29,7 +30,6 @@
 - [OwnCloud install For Ubuntu 20.04](https://onurbolatoglu.medium.com/owncloud-install-for-ubuntu-20-04-bb632776c1d6?source=rss-dc9fb9c10e6d------2)
 - [How to Setup SSH Passwordless Login in Linux](https://onurbolatoglu.medium.com/how-to-setup-ssh-passwordless-login-in-linux-c0316e16dd74?source=rss-dc9fb9c10e6d------2)
 - [Nginx Cache Purge Module install](https://onurbolatoglu.medium.com/nginx-cache-purge-module-install-6d9660abe55b?source=rss-dc9fb9c10e6d------2)
-- [Zabbix 6:IIS Monitoring:](https://onurbolatoglu.medium.com/zabbix-6-iis-monitoring-35068041daaa?source=rss-dc9fb9c10e6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
