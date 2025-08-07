@@ -20,6 +20,7 @@
 ## Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tags in Ansible Basics](https://onurbolatoglu.medium.com/tags-in-ansible-basics-70ea1ba96e70?source=rss-dc9fb9c10e6d------2)
 - [rclone nedir? rclone serve nasıl çalışır?](https://onurbolatoglu.medium.com/rclone-nedir-rclone-serve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-9b0a311f7741?source=rss-dc9fb9c10e6d------2)
 - [Ansible Global Environment Variables](https://onurbolatoglu.medium.com/ansible-global-environment-variables-9d9ecae67f9c?source=rss-dc9fb9c10e6d------2)
 - [Github Actions: run-name](https://onurbolatoglu.medium.com/github-actions-run-name-5ad43f9dc022?source=rss-dc9fb9c10e6d------2)
@@ -29,7 +30,6 @@
 - [VirtualBox network types](https://onurbolatoglu.medium.com/virtualbox-network-type-7f001335c00c?source=rss-dc9fb9c10e6d------2)
 - [OwnCloud install For Ubuntu 20.04](https://onurbolatoglu.medium.com/owncloud-install-for-ubuntu-20-04-bb632776c1d6?source=rss-dc9fb9c10e6d------2)
 - [How to Setup SSH Passwordless Login in Linux](https://onurbolatoglu.medium.com/how-to-setup-ssh-passwordless-login-in-linux-c0316e16dd74?source=rss-dc9fb9c10e6d------2)
-- [Nginx Cache Purge Module install](https://onurbolatoglu.medium.com/nginx-cache-purge-module-install-6d9660abe55b?source=rss-dc9fb9c10e6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
