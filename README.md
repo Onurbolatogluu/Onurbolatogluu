@@ -40,7 +40,15 @@
 <br>
 
 ### 🌐 Connect with me
-<a href="https://twitter.com/onur_bolatoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onur_bolatoglu" height="40" width="40"/></a> &nbsp; <a href="https://linkedin.com/in/onurbolatoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onurbolatoglu" height="40" width="40"/></a> &nbsp; <a href="https://medium.com/@onurbolatoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@onurbolatoglu" height="40" width="40"/></a> &nbsp; <a href="https://onurbolatoglu.medium.com/feed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS Feed" height="40" width="40"/></a>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/onur_bolatoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/><br>Twitter</a></td>
+    <td align="center"><a href="https://linkedin.com/in/onurbolatoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/><br>LinkedIn</a></td>
+    <td align="center"><a href="https://medium.com/@onurbolatoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40"/><br>Medium</a></td>
+    <td align="center"><a href="https://onurbolatoglu.medium.com/feed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS" height="40" width="40"/><br>RSS</a></td>
+  </tr>
+</table>
 
 <br>
 
@@ -54,7 +62,7 @@
     <td align="center"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/><br>Nginx</a></td>
     <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/><br>AWS</a></td>
     <td align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/><br>Azure</a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/><br>Bash</a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/><br>Bash</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/><br>Git</a></td>
