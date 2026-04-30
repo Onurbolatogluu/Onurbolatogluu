@@ -50,10 +50,10 @@
 <br>
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurbolatogluu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br><br>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onurbolatogluu&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurbolatogluu&" alt="GitHub Streak" />
-</div>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurbolatogluu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
