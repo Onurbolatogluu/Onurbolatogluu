@@ -41,7 +41,7 @@
 
 ### 🌐 Connect with me
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://twitter.com/onur_bolatoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/><br>Twitter</a></td>
     <td align="center"><a href="https://linkedin.com/in/onurbolatoglu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/><br>LinkedIn</a></td>
@@ -54,7 +54,7 @@
 
 ### 🛠️ Languages and Tools
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/><br>Linux</a></td>
     <td align="center"><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="45" height="45"/><br>Ubuntu</a></td>
@@ -77,7 +77,7 @@
     <td align="center"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/><br>Nginx</a></td>
     <td align="center"><a href="https://www.haproxy.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg" alt="haproxy" width="45" height="45"/><br>HAProxy</a></td>
     <td align="center"><a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="45" height="45"/><br>Apache</a></td>
-    <td align="center"><a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="45" height="45"/><br>VMware</a></td>
+    <td align="center"><a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/VMware-icon.png" alt="vmware" width="45" height="45"/><br>VMware</a></td>
     <td align="center"><a href="https://docs.saltproject.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/saltstack/saltstack-icon.svg" alt="saltstack" width="45" height="45"/><br>SaltStack</a></td>
     <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/><br>AWS</a></td>
     <td align="center"><a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/><br>Azure</a></td>
