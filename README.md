@@ -77,10 +77,13 @@
 <br>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurbolatogluu&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurbolatogluu&" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurbolatogluu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=onurbolatogluu&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=onurbolatogluu&hide_border=true&theme=tokyonight" alt="GitHub Streak" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurbolatogluu&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" /></td>
+  </tr>
+</table>
