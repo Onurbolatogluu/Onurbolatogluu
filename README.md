@@ -25,7 +25,6 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What Silently Breaks When You Migrate from Ingress NGINX to HAProxy](https://onurbolatoglu.medium.com/what-silently-breaks-when-you-migrate-from-ingress-nginx-to-haproxy-3eb24882dd12?source=rss-dc9fb9c10e6d------2)
 - [CheatSheet #1](https://onurbolatoglu.medium.com/cheatsheet-1-bcba0d2a2f83?source=rss-dc9fb9c10e6d------2)
 - [git cherry-pick nedir?](https://onurbolatoglu.medium.com/git-cherry-pick-nedir-bb7adaf204e0?source=rss-dc9fb9c10e6d------2)
 - [Tags in Ansible Basics](https://onurbolatoglu.medium.com/tags-in-ansible-basics-70ea1ba96e70?source=rss-dc9fb9c10e6d------2)
@@ -35,6 +34,7 @@
 - [Sed nedir | Pratik sed komutları](https://onurbolatoglu.medium.com/25-pratik-sed-komutu-b0e230a82970?source=rss-dc9fb9c10e6d------2)
 - [Azure Batch Demostration](https://onurbolatoglu.medium.com/azure-batch-demostration-b16c2072ab8d?source=rss-dc9fb9c10e6d------2)
 - [Azure DSC Automation](https://onurbolatoglu.medium.com/azure-dsc-automation-902f78edd3ab?source=rss-dc9fb9c10e6d------2)
+- [VirtualBox network types](https://onurbolatoglu.medium.com/virtualbox-network-type-7f001335c00c?source=rss-dc9fb9c10e6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
